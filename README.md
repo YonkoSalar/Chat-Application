@@ -4,3 +4,8 @@ Using React to create a realtime chat application with Node.js and socket.io. Th
 ## Functionality
 ![Demo](demo/realtime-chat.png)
 
+## Reference
+* https://www.youtube.com/watch?v=ZwFA3YMfkoc
+* Socket.io
+* https://nodejs.org/en/
+
