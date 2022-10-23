@@ -42,8 +42,3 @@ Start by running the server inside in the terminal and open a second terminal in
 ```
 
 
-
-## Acknowledgements
-* https://socket.io/
-* https://nodejs.org/en/
-
