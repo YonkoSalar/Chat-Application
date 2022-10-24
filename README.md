@@ -24,10 +24,9 @@ Using React to create a realtime chat application with Node.js and socket.io. Th
   <ul>
     <li><a href="https://www.typescriptlang.org/">Javascript</a></li>
     <li><a href="https://reactjs.org/">React.js</a></li>
-    <li><a href="https://reactrouter.com/">React router</a></li>
     <li><a href="#">CSS</a></li>
     <li><a href="https://socket.io/">Socket.io</a></li>
-    <li><a href="https://nodejs.org/en/">Node.js</a></li>
+    <li><a href="https://nodejs.org/en/">Node.js (express)</a></li>
 
   </ul>
 </details>
